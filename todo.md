@@ -8,7 +8,7 @@
   * [ ] ¿Se guardarán las lecturas de los usuarios para un historial personal? Si es así, ¿cómo (base de datos simple, archivo)?
   * [ ] ¿Cuál será el tono de las interpretaciones de la IA (ej. sabio, alentador, neutral)?
 * **Recopila y Estructura los Datos del Tarot:**
-  * [ ] Consigue o crea las **imágenes de las 78 cartas del tarot** (Arcanos Mayores y Menores). Asegúrate de tener los derechos de uso.
+  * [X] Consigue o crea las **imágenes de las 78 cartas del tarot** (Arcanos Mayores y Menores). Asegúrate de tener los derechos de uso.
   * [ ] **Compila los significados de cada carta** en un formato fácilmente accesible (ej. un archivo JSON, un diccionario de Python). Para cada carta, incluye:
     * Nombre de la carta.
     * Significado en posición **derecha**.
